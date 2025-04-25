@@ -1,26 +1,21 @@
-# Hi there! 👋 I'm Rehan Ansari
+# Expense Splitter 💸
 
-I'm a passionate and data-driven individual with a knack for extracting insights from complex datasets. 📊 Currently, I'm diving deep into the world of data science, armed with 6 months of hands-on experience and a solid foundation gained through training.
+A simple Python script to split a total expense among a group of people and calculate how much each person should pay.
 
-## 🔧 Skills
+## 📝 Features
 
-- **Data Analysis:** Proficient in extracting meaningful insights and patterns from data.
-- **Machine Learning:** Experienced in developing and deploying machine learning models.
-- **Data Visualization:** Skilled in creating compelling visualizations to tell data stories.
-- **Programming:** Python, SQL, Excel, Power BI, Machine Learning, NLP, Deepl Learning.
+- Input the total amount of an expense
+- Input the number of people sharing the cost
+- Calculates and displays the amount each person owes
+- Includes basic error handling (e.g., number of people cannot be less than 1)
 
-## 🚀 Experience
+## 🚀 Getting Started
 
-I've had the privilege of applying my skills in a professional setting, having 6 months of practical experience. During this time, I've worked on multiple projects.
+### Prerequisites
 
-## 📚 Education and Training
+- Python 3.x installed on your system
 
-- **Data Science Bootcamp:** Completed an intensive 6 months data science training program, where I gained expertise.
+### Running the Script
 
-## 🌐 Connect with Me
-
-Let's connect! Feel free to reach out for collaboration or a chat about all things data science.
-
-LinkedIn - www.linkedin.com/in/rehan-ansari-30950929b 
-
-Looking forward to exploring the endless possibilities in the data-driven world! 🌐✨
+```bash
+python main.py
